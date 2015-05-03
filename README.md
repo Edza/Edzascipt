@@ -2,8 +2,7 @@
 
 A small programming language.
 
-Currently supported commands:
-===========================================
+**Currently supported commands:**
 > def x 3
 
 > out x
